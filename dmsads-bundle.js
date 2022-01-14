@@ -16,7 +16,7 @@ var DMSAds = (function() {
 
         helpers: (function() {
 
-            var DMSADS_CSS = 'https://cdn.jsdelivr.net/gh/davidkubik98/Test-Ads/styles.css'
+            var DMSADS_CSS = 'https://cdn.jsdelivr.net/gh/davidkubik98/Test-Ads/style.css'
 
             var insertedCSS = [];
             var insertedJS = [];
